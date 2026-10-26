@@ -11,6 +11,7 @@ One row per published post, newest last. The scheduled publisher reads this befo
 | (before log) | outcome-driven-autonomy | Tie every "done" claim to a check that could have failed, run on the real result | Felix Rieseberg; Anthropic, context engineering |
 | (before log) | start-here-human-free-zone | Pinned intro post; do not touch except for structural reasons | n/a |
 | 2026-10-25 | watch-the-check-fail-first | Write the check first and watch it fail for the right reason before changing anything, then see it pass | Simon Willison, Agentic Engineering Patterns (red/green TDD, first run the tests) |
+| 2026-10-26 | slim-down-instruction-files | Sort instruction-file lines into no-op/always/sometimes/stale, delete no-ops, move the rest behind triggered pointers, in increasingly aggressive passes | Matt Pocock, prompt of the day on restructuring AGENTS.md (x.com) |
 
 ## Candidates considered and skipped
 
