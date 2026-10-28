@@ -13,6 +13,7 @@ One row per published post, newest last. The scheduled publisher reads this befo
 | 2026-10-25 | watch-the-check-fail-first | Write the check first and watch it fail for the right reason before changing anything, then see it pass | Simon Willison, Agentic Engineering Patterns (red/green TDD, first run the tests) |
 | 2026-10-26 | slim-down-instruction-files | Sort instruction-file lines into no-op/always/sometimes/stale, delete no-ops, move the rest behind triggered pointers, in increasingly aggressive passes | Matt Pocock, prompt of the day on restructuring AGENTS.md (x.com) |
 | 2026-10-27 | read-the-traces-before-fixing | Read raw failure records, note the first wrong step in each, group by counts, fix the biggest group, recount | Hamel Husain, Automating Error Analysis (hamel.dev) |
+| 2026-10-28 | sprawl-then-fold-back | Let the first version sprawl to learn what the change needs, then fold it back into the existing code in the same change | Impatient Programming rules, "breathe in, breathe out" (impatientprogramming.org/rules) |
 
 ## Candidates considered and skipped
 
@@ -20,3 +21,4 @@ Append short notes here (topic, reason skipped) so later runs do not re-research
 - Hamel Husain, error analysis (2026-10-25): published 2026-10-27 as read-the-traces-before-fixing.
 - Simon Willison, hoarding working examples for agents to reuse (2026-10-25): candidate for a future run; not researched in depth.
 - Anthropic context engineering / multi-agent research posts (2026-10-25): search surfaced only older (2025) items and secondary summaries; nothing verified as recent.
+- Impatient Programming rules (2026-10-28): published rule 12 as sprawl-then-fold-back. Other strong rules left for later: 26 kill-matrix test pruning (keep only tests that catch unique mutants), 15 run several parallel spikes to settle a question, 5 "the one question" (ask what you still need to learn before building), 9 label work honestly (`fix` only for live defects).
