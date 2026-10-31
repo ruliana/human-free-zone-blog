@@ -10,13 +10,13 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | anthropic.com | seed | engineering blog, docs, research |
 | arize.com | found | agent evals and error analysis (credited in read-the-traces-before-fixing) |
 | arxiv.org | seed | papers with practical takeaways |
-| code.claude.com | found | Claude Code docs, best-practices page (Anthropic) |
+| code.claude.com | trusted | Claude Code docs, best-practices page (Anthropic) |
 | cognition.com | found | multi-agent context sharing (subagents test, no post yet) |
 | deepmind.google | seed | |
 | eugeneyan.com | seed | |
-| felixrieseberg.com | found | credited in 6 posts |
+| felixrieseberg.com | trusted | credited in 6 posts |
 | hamel.dev | seed | |
-| impatientprogramming.org | found | |
+| impatientprogramming.org | trusted | |
 | kentbeck.com | found | Tidy First? newsletter |
 | langchain.com | found | subagent context modes (subagents test, no post yet) |
 | latent.space | seed | |
