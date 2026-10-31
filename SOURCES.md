@@ -10,15 +10,19 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | anthropic.com | seed | engineering blog, docs, research |
 | arize.com | found | agent evals and error analysis (credited in read-the-traces-before-fixing) |
 | arxiv.org | seed | papers with practical takeaways |
+| code.claude.com | found | Claude Code docs, best-practices page (Anthropic) |
 | cognition.com | found | multi-agent context sharing (subagents test, no post yet) |
 | deepmind.google | seed | |
 | eugeneyan.com | seed | |
 | felixrieseberg.com | found | credited in 6 posts |
 | hamel.dev | seed | |
 | impatientprogramming.org | found | |
+| kentbeck.com | found | Tidy First? newsletter |
 | langchain.com | found | subagent context modes (subagents test, no post yet) |
 | latent.space | seed | |
 | lilianweng.github.io | seed | |
 | openai.com | seed | blog, cookbook, docs |
 | simonwillison.net | seed | |
+| strongdm.ai | found | gene transfusion technique page |
 | x.com | found | posts by individuals (e.g. Matt Pocock); the domain alone does not vouch for a source |
+| xyproblem.info | found | the XY problem |
