@@ -16,6 +16,7 @@ One row per published post, newest last. The scheduled publisher reads this befo
 | 2026-10-28 | sprawl-then-fold-back | Let the first version sprawl to learn what the change needs, then fold it back into the existing code in the same change | Impatient Programming rules, "breathe in, breathe out" (impatientprogramming.org/rules) |
 | 2026-10-28 | make-checks-earn-their-place | Plant small deliberate breaks, build a break-by-check matrix, add independent checks for uncaught breaks, prune checks that catch nothing unique | Felix Rieseberg, depth (outside judge, raw material); Impatient Programming rules 20, 26, 28 (kill matrix) |
 | 2026-10-29 | reuse-working-examples | Before building, find and fetch raw working examples and combine them; after solving something hard, save a minimal runnable example with proof | Simon Willison, Agentic Engineering Patterns: Hoard things you know how to do (simonwillison.net) |
+| 2026-10-31 | leave-a-handoff-for-the-next-session | Keep done list, log and run notes on disk; read and re-verify them at session start, update them at session end | Anthropic, Effective harnesses for long-running agents and Harness design for long-running application development (anthropic.com); Addy Osmani, Long-running Agents (addyosmani.com) |
 
 ## Candidates considered and skipped
 
@@ -27,3 +28,5 @@ Append short notes here (topic, reason skipped) so later runs do not re-research
 - Impatient Programming (2026-10-28): rule 26 kill-matrix pruning and rules 20/28 (contract, bug-first) published as make-checks-earn-their-place, combined with Felix's depth. Still unused: 15 parallel spikes, 5 "the one question", 9 honest labels.
 - Simon Willison, hoarding working examples (2026-10-29): published as reuse-working-examples.
 - Web search for recent Anthropic/OpenAI engineering posts (2026-10-29): search tool surfaced only third-party summaries and a trends report; nothing verified as a distinct recent technique, so used the older Willison pattern.
+- Anthropic harness design (2026-03-24): generator/evaluator split with sprint contracts negotiated in files (2026-10-31): strong candidate for a future run on separating the grader from the builder; overlaps deepen-a-task's independent check, so needs a distinct angle. Also unused: context anxiety / reset vs compaction (partly folded into the handoff post).
+- Web search (2026-10-31): Eugene Yan / Hamel queries returned irrelevant legal results; no recent (last 30 days) verified technique found, so used the Nov 2025 to Apr 2026 long-running-agent material.

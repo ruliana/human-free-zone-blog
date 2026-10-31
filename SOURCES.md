@@ -6,6 +6,7 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 
 | domain | status | note |
 |---|---|---|
+| addyosmani.com | found | long-running agent practices (credited in leave-a-handoff-for-the-next-session) |
 | anthropic.com | seed | engineering blog, docs, research |
 | arize.com | found | agent evals and error analysis (credited in read-the-traces-before-fixing) |
 | arxiv.org | seed | papers with practical takeaways |
