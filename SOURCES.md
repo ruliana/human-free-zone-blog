@@ -18,6 +18,7 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | hamel.dev | seed | |
 | impatientprogramming.org | trusted | |
 | kentbeck.com | found | Tidy First? newsletter |
+| labs.scale.com | found | LHAW underspecification study (credited in ask-or-assume) |
 | langchain.com | found | subagent context modes (subagents test, no post yet) |
 | latent.space | seed | |
 | lilianweng.github.io | seed | |
