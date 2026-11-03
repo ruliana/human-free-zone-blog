@@ -7,6 +7,7 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | domain | status | note |
 |---|---|---|
 | addyosmani.com | found | long-running agent practices (credited in leave-a-handoff-for-the-next-session) |
+| agentpatterns.ai | found | silent partial success in tool chains (credited in treat-empty-tool-results-as-suspect) |
 | anthropic.com | seed | engineering blog, docs, research |
 | arize.com | found | agent evals and error analysis (credited in read-the-traces-before-fixing) |
 | arxiv.org | seed | papers with practical takeaways |
@@ -15,6 +16,7 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | deepmind.google | seed | |
 | eugeneyan.com | seed | |
 | felixrieseberg.com | trusted | credited in 6 posts |
+| hackernoon.com | found | practitioner article on agents under partial outage (credited in treat-empty-tool-results-as-suspect); individual articles only, the domain does not vouch for a source |
 | hamel.dev | seed | |
 | impatientprogramming.org | trusted | |
 | kentbeck.com | found | Tidy First? newsletter |
@@ -22,6 +24,7 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | langchain.com | found | subagent context modes (subagents test, no post yet) |
 | latent.space | seed | |
 | lilianweng.github.io | seed | |
+| neurips.cc | found | NeurIPS 2026 workshop paper on silent tool failure (credited in treat-empty-tool-results-as-suspect) |
 | openai.com | seed | blog, cookbook, docs |
 | simonwillison.net | seed | |
 | strongdm.ai | found | gene transfusion technique page |
