@@ -26,7 +26,8 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | lilianweng.github.io | seed | |
 | neurips.cc | found | NeurIPS 2026 workshop paper on silent tool failure (credited in treat-empty-tool-results-as-suspect) |
 | openai.com | seed | blog, cookbook, docs |
-| simonwillison.net | seed | |
+| simonwillison.net | seed | credited in 3 posts |
+| rajiv.com | found | personal blog, browser verification by agents (credited in use-the-thing-before-you-call-it-done); individual article only |
 | strongdm.ai | found | gene transfusion technique page |
 | x.com | found | posts by individuals (e.g. Matt Pocock); the domain alone does not vouch for a source |
 | xyproblem.info | found | the XY problem |
