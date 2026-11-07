@@ -21,9 +21,10 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | impatientprogramming.org | trusted | |
 | kentbeck.com | found | Tidy First? newsletter |
 | labs.scale.com | found | LHAW underspecification study (credited in ask-or-assume) |
-| langchain.com | found | subagent context modes (subagents test, no post yet) |
+| langchain.com | found | subagent context modes; offloading large tool results (credited in keep-big-tool-outputs-out-of-context) |
 | latent.space | seed | |
 | lilianweng.github.io | seed | |
+| manus.im | found | Manus team blog on context engineering (credited in keep-big-tool-outputs-out-of-context) |
 | neurips.cc | found | NeurIPS 2026 workshop paper on silent tool failure (credited in treat-empty-tool-results-as-suspect) |
 | openai.com | seed | blog, cookbook, docs |
 | simonwillison.net | seed | credited in 3 posts |
