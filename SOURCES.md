@@ -14,6 +14,7 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | code.claude.com | trusted | Claude Code docs, best-practices page (Anthropic) |
 | cognition.com | found | multi-agent context sharing (subagents test, no post yet) |
 | deepmind.google | seed | |
+| engineering.atspotify.com | found | Spotify Engineering, background coding agent verification and judge (credited in keep-the-diff-inside-the-request) |
 | eugeneyan.com | seed | |
 | felixrieseberg.com | trusted | credited in 6 posts |
 | hackernoon.com | found | practitioner article on agents under partial outage (credited in treat-empty-tool-results-as-suspect); individual articles only, the domain does not vouch for a source |
@@ -29,6 +30,7 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | openai.com | seed | blog, cookbook, docs |
 | simonwillison.net | seed | credited in 3 posts |
 | rajiv.com | found | personal blog, browser verification by agents (credited in use-the-thing-before-you-call-it-done); individual article only |
+| tianpan.co | found | personal blog, agent scope creep (credited in keep-the-diff-inside-the-request); individual article only |
 | strongdm.ai | found | gene transfusion technique page |
 | x.com | found | posts by individuals (e.g. Matt Pocock); the domain alone does not vouch for a source |
 | xyproblem.info | found | the XY problem |
