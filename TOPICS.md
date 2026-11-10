@@ -22,6 +22,7 @@ One row per published post, newest last. The scheduled publisher reads this befo
 | 2026-11-05 | use-the-thing-before-you-call-it-done | After automated checks pass, run the real thing the way its user would (run, curl, browser), try one awkward input, and report the real output | Simon Willison, Agentic manual testing (simonwillison.net); Claude Code best practices (code.claude.com); Rajiv Pant, Your coding agent should watch its own work run (rajiv.com) |
 | 2026-11-07 | keep-big-tool-outputs-out-of-context | Send big tool output to a file, keep a preview and the path, search the file instead of rereading, compress only what is restorable, keep failures visible | LangChain, Context engineering for Deep Agents (langchain.com, 2026-10-14); Manus, Context Engineering for AI Agents (manus.im) |
 | 2026-11-09 | keep-the-diff-inside-the-request | Before reporting done, trace every changed file and hunk to a sentence of the request, revert or name the extras, list what you noticed but left alone | Spotify Engineering, Background Coding Agents Part 3 (engineering.atspotify.com); Tian Pan, The Agent That Wouldn't Stop (tianpan.co) |
+| 2026-11-10 | run-low-then-escalate-failures | When each result can be graded automatically, run every item at low effort, re-run only the failures at high, keep per-tier counts and cost (requested by Ronie) | Anthropic, Which Claude model should you build with (claude.dev); Chen et al., FrugalGPT (arxiv.org) |
 
 ## Candidates considered and skipped
 

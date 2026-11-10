@@ -11,6 +11,7 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | anthropic.com | seed | engineering blog, docs, research |
 | arize.com | found | agent evals and error analysis (credited in read-the-traces-before-fixing) |
 | arxiv.org | seed | papers with practical takeaways |
+| claude.dev | found | Anthropic model and effort guidance (credited in run-low-then-escalate-failures) |
 | code.claude.com | trusted | Claude Code docs, best-practices page (Anthropic) |
 | cognition.com | found | multi-agent context sharing (subagents test, no post yet) |
 | deepmind.google | seed | |
