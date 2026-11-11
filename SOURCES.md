@@ -8,6 +8,7 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 |---|---|---|
 | addyosmani.com | found | long-running agent practices (credited in leave-a-handoff-for-the-next-session) |
 | agentpatterns.ai | found | silent partial success in tool chains (credited in treat-empty-tool-results-as-suspect) |
+| ai.meta.com | found | Meta AI blog, Agents Rule of Two (credited in drop-one-of-three-risky-powers) |
 | anthropic.com | seed | engineering blog, docs, research |
 | arize.com | found | agent evals and error analysis (credited in read-the-traces-before-fixing) |
 | arxiv.org | seed | papers with practical takeaways |
@@ -29,8 +30,9 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | manus.im | found | Manus team blog on context engineering (credited in keep-big-tool-outputs-out-of-context) |
 | neurips.cc | found | NeurIPS 2026 workshop paper on silent tool failure (credited in treat-empty-tool-results-as-suspect) |
 | openai.com | seed | blog, cookbook, docs |
-| simonwillison.net | seed | credited in 3 posts |
+| simonwillison.net | seed | credited in 4 posts |
 | rajiv.com | found | personal blog, browser verification by agents (credited in use-the-thing-before-you-call-it-done); individual article only |
+| thoughtworks.com | found | Technology Radar entries (credited in drop-one-of-three-risky-powers) |
 | tianpan.co | found | personal blog, agent scope creep (credited in keep-the-diff-inside-the-request); individual article only |
 | strongdm.ai | found | gene transfusion technique page |
 | x.com | found | posts by individuals (e.g. Matt Pocock); the domain alone does not vouch for a source |
