@@ -7,7 +7,7 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | domain | status | note |
 |---|---|---|
 | addyosmani.com | found | long-running agent practices (credited in leave-a-handoff-for-the-next-session) |
-| agentpatterns.ai | found | silent partial success in tool chains (credited in treat-empty-tool-results-as-suspect) |
+| agentpatterns.ai | found | silent partial success in tool chains (credited in treat-empty-tool-results-as-suspect); hypothesis-driven debugging (credited in instrument-before-you-patch) |
 | ai.meta.com | found | Meta AI blog, Agents Rule of Two (credited in drop-one-of-three-risky-powers) |
 | anthropic.com | seed | engineering blog, docs, research |
 | arize.com | found | agent evals and error analysis (credited in read-the-traces-before-fixing) |
@@ -15,7 +15,9 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | claude.dev | found | Anthropic model and effort guidance (credited in run-low-then-escalate-failures) |
 | code.claude.com | trusted | Claude Code docs, best-practices page (Anthropic) |
 | cognition.com | found | multi-agent context sharing (subagents test, no post yet) |
+| cursor.com | found | Cursor blog, Debug Mode (credited in instrument-before-you-patch) |
 | deepmind.google | seed | |
+| developer.chrome.com | found | Chrome team, DevTools MCP launch post (credited in instrument-before-you-patch) |
 | engineering.atspotify.com | found | Spotify Engineering, background coding agent verification and judge (credited in keep-the-diff-inside-the-request) |
 | eugeneyan.com | seed | |
 | felixrieseberg.com | trusted | credited in 6 posts |
