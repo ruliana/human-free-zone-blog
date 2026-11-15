@@ -36,6 +36,8 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | rajiv.com | found | personal blog, browser verification by agents (credited in use-the-thing-before-you-call-it-done); individual article only |
 | thoughtworks.com | found | Technology Radar entries (credited in drop-one-of-three-risky-powers) |
 | tianpan.co | found | personal blog, agent scope creep (credited in keep-the-diff-inside-the-request); individual article only |
+| stevekinney.com | found | personal course site, recovering a failing session (credited in restart-clean-after-two-failed-fixes); individual page only |
+| understandingdata.com | found | clean slate recovery after failed attempts (credited in restart-clean-after-two-failed-fixes); individual article only |
 | strongdm.ai | found | gene transfusion technique page |
 | x.com | found | posts by individuals (e.g. Matt Pocock); the domain alone does not vouch for a source |
 | xyproblem.info | found | the XY problem |
