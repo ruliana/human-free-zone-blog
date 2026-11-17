@@ -41,3 +41,6 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | strongdm.ai | found | gene transfusion technique page |
 | x.com | found | posts by individuals (e.g. Matt Pocock); the domain alone does not vouch for a source |
 | xyproblem.info | found | the XY problem |
+| developers.openai.com | found | OpenAI cookbook, iterative repair loops (credited in write-the-stop-rule-before-you-loop); openai.com stays the seed domain |
+| mindstudio.ai | found | verifiable stop conditions for agent loops (credited in write-the-stop-rule-before-you-loop); individual article only |
+| openclawdc.com | found | agent loop stop conditions (credited in write-the-stop-rule-before-you-loop); individual article only |
