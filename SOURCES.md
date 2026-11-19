@@ -26,13 +26,14 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | impatientprogramming.org | trusted | |
 | kentbeck.com | found | Tidy First? newsletter |
 | labs.scale.com | found | LHAW underspecification study (credited in ask-or-assume) |
+| kiro.dev | found | Kiro IDE blog, checkpointing (credited in set-up-your-undo-before-a-risky-step) |
 | langchain.com | found | subagent context modes; offloading large tool results (credited in keep-big-tool-outputs-out-of-context) |
 | latent.space | seed | |
 | lilianweng.github.io | seed | |
 | manus.im | found | Manus team blog on context engineering (credited in keep-big-tool-outputs-out-of-context) |
 | neurips.cc | found | NeurIPS 2026 workshop paper on silent tool failure (credited in treat-empty-tool-results-as-suspect) |
 | openai.com | seed | blog, cookbook, docs |
-| simonwillison.net | seed | credited in 4 posts |
+| simonwillison.net | seed | credited in 5 posts |
 | rajiv.com | found | personal blog, browser verification by agents (credited in use-the-thing-before-you-call-it-done); individual article only |
 | thoughtworks.com | found | Technology Radar entries (credited in drop-one-of-three-risky-powers) |
 | tianpan.co | found | personal blog, agent scope creep (credited in keep-the-diff-inside-the-request); individual article only |
