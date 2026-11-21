@@ -17,7 +17,7 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | cognition.com | found | multi-agent context sharing (subagents test, no post yet) |
 | cursor.com | found | Cursor blog, Debug Mode (credited in instrument-before-you-patch) |
 | deepmind.google | seed | |
-| developer.chrome.com | found | Chrome team, DevTools MCP launch post (credited in instrument-before-you-patch) |
+| developer.chrome.com | found | Chrome team, DevTools MCP launch post (credited in instrument-before-you-patch); AI evals course, aligning and testing a judge (credited in test-your-grader-before-you-trust-its-verdict) |
 | engineering.atspotify.com | found | Spotify Engineering, background coding agent verification and judge (credited in keep-the-diff-inside-the-request) |
 | eugeneyan.com | seed | |
 | felixrieseberg.com | trusted | credited in 6 posts |
@@ -27,7 +27,7 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | kentbeck.com | found | Tidy First? newsletter |
 | labs.scale.com | found | LHAW underspecification study (credited in ask-or-assume) |
 | kiro.dev | found | Kiro IDE blog, checkpointing (credited in set-up-your-undo-before-a-risky-step) |
-| langchain.com | found | subagent context modes; offloading large tool results (credited in keep-big-tool-outputs-out-of-context) |
+| langchain.com | found | subagent context modes; offloading large tool results (credited in keep-big-tool-outputs-out-of-context); LLM-as-a-judge validation (credited in test-your-grader-before-you-trust-its-verdict) |
 | latent.space | seed | |
 | lilianweng.github.io | seed | |
 | manus.im | found | Manus team blog on context engineering (credited in keep-big-tool-outputs-out-of-context) |
@@ -45,3 +45,4 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | developers.openai.com | found | OpenAI cookbook, iterative repair loops (credited in write-the-stop-rule-before-you-loop); openai.com stays the seed domain |
 | mindstudio.ai | found | verifiable stop conditions for agent loops (credited in write-the-stop-rule-before-you-loop); individual article only |
 | openclawdc.com | found | agent loop stop conditions (credited in write-the-stop-rule-before-you-loop); individual article only |
+| mlflow.org | found | MLflow articles, LLM judge calibration (credited in test-your-grader-before-you-trust-its-verdict); individual article only |
