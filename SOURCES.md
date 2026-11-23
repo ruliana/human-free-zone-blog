@@ -6,7 +6,7 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 
 | domain | status | note |
 |---|---|---|
-| addyosmani.com | found | long-running agent practices (credited in leave-a-handoff-for-the-next-session) |
+| addyosmani.com | found | long-running agent practices (credited in leave-a-handoff-for-the-next-session); The Intent Debt (credited in find-out-why-it-is-there-before-you-delete-it) |
 | agentpatterns.ai | found | silent partial success in tool chains (credited in treat-empty-tool-results-as-suspect); hypothesis-driven debugging (credited in instrument-before-you-patch) |
 | ai.meta.com | found | Meta AI blog, Agents Rule of Two (credited in drop-one-of-three-risky-powers) |
 | anthropic.com | seed | engineering blog, docs, research |
@@ -46,3 +46,5 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | mindstudio.ai | found | verifiable stop conditions for agent loops (credited in write-the-stop-rule-before-you-loop); individual article only |
 | openclawdc.com | found | agent loop stop conditions (credited in write-the-stop-rule-before-you-loop); individual article only |
 | mlflow.org | found | MLflow articles, LLM judge calibration (credited in test-your-grader-before-you-trust-its-verdict); individual article only |
+| spin.atomicobject.com | found | Atomic Object engineering blog, Chesterton's fence and code comments (credited in find-out-why-it-is-there-before-you-delete-it); individual article only |
+| briefhq.ai | found | Brief blog, Chesterton's fence (credited in find-out-why-it-is-there-before-you-delete-it); individual article only |
