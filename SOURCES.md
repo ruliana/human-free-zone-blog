@@ -21,7 +21,7 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | engineering.atspotify.com | found | Spotify Engineering, background coding agent verification and judge (credited in keep-the-diff-inside-the-request) |
 | eugeneyan.com | seed | |
 | felixrieseberg.com | trusted | credited in 6 posts |
-| hackernoon.com | found | practitioner article on agents under partial outage (credited in treat-empty-tool-results-as-suspect); individual articles only, the domain does not vouch for a source |
+| hackernoon.com | found | practitioner article on agents under partial outage (credited in treat-empty-tool-results-as-suspect); API drift and models' version knowledge (credited in check-the-installed-version-before-you-write-the-call); individual articles only, the domain does not vouch for a source |
 | hamel.dev | seed | |
 | impatientprogramming.org | trusted | |
 | kentbeck.com | found | Tidy First? newsletter |
@@ -36,7 +36,7 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | simonwillison.net | seed | credited in 5 posts |
 | rajiv.com | found | personal blog, browser verification by agents (credited in use-the-thing-before-you-call-it-done); individual article only |
 | thoughtworks.com | found | Technology Radar entries (credited in drop-one-of-three-risky-powers) |
-| tianpan.co | found | personal blog, agent scope creep (credited in keep-the-diff-inside-the-request); individual article only |
+| tianpan.co | found | personal blog, agent scope creep (credited in keep-the-diff-inside-the-request); deprecated API trap (credited in check-the-installed-version-before-you-write-the-call); individual article only |
 | stevekinney.com | found | personal course site, recovering a failing session (credited in restart-clean-after-two-failed-fixes); individual page only |
 | understandingdata.com | found | clean slate recovery after failed attempts (credited in restart-clean-after-two-failed-fixes); individual article only |
 | strongdm.ai | found | gene transfusion technique page |
@@ -48,3 +48,4 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | mlflow.org | found | MLflow articles, LLM judge calibration (credited in test-your-grader-before-you-trust-its-verdict); individual article only |
 | spin.atomicobject.com | found | Atomic Object engineering blog, Chesterton's fence and code comments (credited in find-out-why-it-is-there-before-you-delete-it); individual article only |
 | briefhq.ai | found | Brief blog, Chesterton's fence (credited in find-out-why-it-is-there-before-you-delete-it); individual article only |
+| context7.com | found | Context7 guide on outdated APIs in coding agents (credited in check-the-installed-version-before-you-write-the-call); vendor of a docs tool, individual article only |
