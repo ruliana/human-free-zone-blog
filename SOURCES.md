@@ -49,3 +49,6 @@ Status: `seed` = starting list; `found` = discovered by a run or test; `trusted`
 | spin.atomicobject.com | found | Atomic Object engineering blog, Chesterton's fence and code comments (credited in find-out-why-it-is-there-before-you-delete-it); individual article only |
 | briefhq.ai | found | Brief blog, Chesterton's fence (credited in find-out-why-it-is-there-before-you-delete-it); individual article only |
 | context7.com | found | Context7 guide on outdated APIs in coding agents (credited in check-the-installed-version-before-you-write-the-call); vendor of a docs tool, individual article only |
+| airbnb.tech | found | Airbnb engineering blog, LLM-driven test migration, sample-tune-sweep loop (credited in pilot-tune-then-sweep-a-bulk-change); individual article only |
+| claude.com | found | Anthropic's claude.com blog, large-scale code migrations (credited in pilot-tune-then-sweep-a-bulk-change); Anthropic, so related to anthropic.com and claude.dev |
+| sourcegraph.com | found | Sourcegraph blog, Agentic Batch Changes launch (credited in pilot-tune-then-sweep-a-bulk-change); vendor product post, individual article only |
